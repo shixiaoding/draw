@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="794" dy="2130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1866" dy="2131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="voOGj-463A1Rn_cRMt4_-20" value="RSM" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="20" y="-255" width="490" height="930" as="geometry" />
+          <mxGeometry x="20" y="-255" width="490" height="455" as="geometry" />
         </mxCell>
         <mxCell id="voOGj-463A1Rn_cRMt4_-18" value="蜂窝" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="1080" y="-250" width="490" height="450" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="560" y="-250" width="490" height="450" as="geometry" />
         </mxCell>
         <mxCell id="voOGj-463A1Rn_cRMt4_-10" value="其他功能" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="560" y="330" width="680" height="770" as="geometry" />
+          <mxGeometry x="20" y="230" width="1220" height="870" as="geometry" />
         </mxCell>
         <mxCell id="pBtrlKyEKU45YTtjNklL-4" value="bdm_bd_sale_area_asso&lt;br&gt;销售与蜂窝的关系" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="-200" width="160" height="50" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="785" y="-200" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pBtrlKyEKU45YTtjNklL-8" value="erp_company_structure&lt;br&gt;后台部门表（组织架构表）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="-150" width="180" height="40" as="geometry" />
+          <mxGeometry x="40" y="-195" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="voOGj-463A1Rn_cRMt4_-2" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;operation_log_detail&lt;br&gt;蜂窝配置日志表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1250" y="-160" width="180" height="40" as="geometry" />
@@ -59,25 +59,25 @@
           <mxGeometry x="1330" y="290" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gd0TqJua__JsBvtMM09T-2" value="rsm_business_log&lt;br&gt;后台业务操作日志表" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="-80" width="180" height="40" as="geometry" />
+          <mxGeometry x="260" y="-195" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gd0TqJua__JsBvtMM09T-3" value="rsm_menus&lt;br&gt;RSM 系统菜单表" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="-10" width="180" height="40" as="geometry" />
+          <mxGeometry x="40" y="-130" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gd0TqJua__JsBvtMM09T-4" value="rsm_permission&lt;br&gt;RSM 系统权限表" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="50" width="180" height="40" as="geometry" />
+          <mxGeometry x="260" y="-130" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gd0TqJua__JsBvtMM09T-5" value="rsm_user&lt;br&gt;RSM 系统用户表" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="120" width="180" height="40" as="geometry" />
+          <mxGeometry x="40" y="-60" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gd0TqJua__JsBvtMM09T-6" value="rsm_user_login_log&lt;br&gt;RSM 系统用户登陆日志表" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="190" width="180" height="40" as="geometry" />
+          <mxGeometry x="260" y="-60" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gd0TqJua__JsBvtMM09T-7" value="rsm_user_to_group&lt;br&gt;RSM 系统用户与角色关系表" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="250" width="180" height="40" as="geometry" />
+          <mxGeometry x="40" y="10" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gd0TqJua__JsBvtMM09T-8" value="rsm_usergroup&lt;br&gt;RSM 角色表" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="320" width="180" height="40" as="geometry" />
+          <mxGeometry x="260" y="10" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gd0TqJua__JsBvtMM09T-9" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;ruigu_accompany_checkin_record&lt;br&gt;管理员陪访表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="595" y="560" width="200" height="40" as="geometry" />
@@ -100,62 +100,101 @@
         <mxCell id="Gd0TqJua__JsBvtMM09T-19" value="ruigu_bdm_member&lt;br&gt;bdm组成员表" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="-130" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r76c9Vmj9TOw2Hqpau5v-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;rugu_business_license&lt;br&gt;营业执照&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r76c9Vmj9TOw2Hqpau5v-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;rugu_business_license&lt;br&gt;营业执照&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1000" y="775" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r76c9Vmj9TOw2Hqpau5v-2" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;ruigu_checkin_plan_audit_record&lt;br&gt;拜访计划审核记录表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r76c9Vmj9TOw2Hqpau5v-2" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;ruigu_checkin_plan_audit_record&lt;br&gt;拜访计划审核记录表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="605" y="620" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r76c9Vmj9TOw2Hqpau5v-3" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;ruigu_checkin_plan_audit_record&lt;br&gt;拜访计划审核记录表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r76c9Vmj9TOw2Hqpau5v-3" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;ruigu_checkin_plan_audit_record&lt;br&gt;拜访计划审核记录表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="680" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r76c9Vmj9TOw2Hqpau5v-4" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ruigu_choose_list&lt;br&gt;选品单&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="r76c9Vmj9TOw2Hqpau5v-4" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ruigu_choose_list&lt;br&gt;选品单&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="610" y="850" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r76c9Vmj9TOw2Hqpau5v-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;ruigu_checkin_plan_audit_record&lt;br&gt;拜访计划审核记录表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r76c9Vmj9TOw2Hqpau5v-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;ruigu_checkin_plan_audit_record&lt;br&gt;拜访计划审核记录表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="745" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r76c9Vmj9TOw2Hqpau5v-6" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ruigu_choose_shop_list&lt;br&gt;选品单商品&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="r76c9Vmj9TOw2Hqpau5v-6" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ruigu_choose_shop_list&lt;br&gt;选品单商品&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="805" y="850" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r76c9Vmj9TOw2Hqpau5v-7" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ruigu_choose_user_list&lt;br&gt;BD关联的选品单&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="r76c9Vmj9TOw2Hqpau5v-7" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ruigu_choose_user_list&lt;br&gt;BD关联的选品单&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="990" y="850" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r76c9Vmj9TOw2Hqpau5v-8" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ruigu_create_store_repeat&lt;br&gt;销售创建店铺有相似地址记录&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="r76c9Vmj9TOw2Hqpau5v-8" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ruigu_create_store_repeat&lt;br&gt;销售创建店铺有相似地址记录&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="610" y="910" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r76c9Vmj9TOw2Hqpau5v-9" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ruigu_group_budget&lt;br&gt;大区预算池关系表&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="r76c9Vmj9TOw2Hqpau5v-9" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ruigu_group_budget&lt;br&gt;大区预算池关系表&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="605" y="970" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r76c9Vmj9TOw2Hqpau5v-10" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ruigu_group_coupon&lt;br&gt;大区优惠券表&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="r76c9Vmj9TOw2Hqpau5v-10" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ruigu_group_coupon&lt;br&gt;大区优惠券表&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="800" y="970" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r76c9Vmj9TOw2Hqpau5v-11" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ruigu_group_coupon_audit_process&lt;br&gt;大区优惠券审核表&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="r76c9Vmj9TOw2Hqpau5v-11" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ruigu_group_coupon_audit_process&lt;br&gt;大区优惠券审核表&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="990" y="970" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r76c9Vmj9TOw2Hqpau5v-12" value="ruigu_intent_group&lt;br&gt;销售组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r76c9Vmj9TOw2Hqpau5v-12" value="ruigu_intent_group&lt;br&gt;销售组" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="-60" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r76c9Vmj9TOw2Hqpau5v-13" value="ruigu_intent_group_related&lt;br&gt;销售组用户关系表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r76c9Vmj9TOw2Hqpau5v-13" value="ruigu_intent_group_related&lt;br&gt;销售组用户关系表" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="790" y="-60" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r76c9Vmj9TOw2Hqpau5v-14" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ruigu_label_store&lt;br&gt;门店标签&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="r76c9Vmj9TOw2Hqpau5v-14" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ruigu_label_store&lt;br&gt;门店标签&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="600" y="1030" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r76c9Vmj9TOw2Hqpau5v-15" value="ruigu_member_day_report&lt;div&gt;客户日报表（R1~R4)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r76c9Vmj9TOw2Hqpau5v-15" value="ruigu_member_day_report&lt;div&gt;客户日报表（R1~R4)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1330" y="360" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r76c9Vmj9TOw2Hqpau5v-16" value="&lt;div&gt;ruigu_member_day_report_r5 &lt;br&gt;客户日报表R5&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r76c9Vmj9TOw2Hqpau5v-16" value="&lt;div&gt;ruigu_member_day_report_r5 &lt;br&gt;客户日报表R5&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1730" y="360" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r76c9Vmj9TOw2Hqpau5v-17" value="&lt;div&gt;ruigu_member_day_report_dxdl 客户日报表（电线电缆）&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r76c9Vmj9TOw2Hqpau5v-17" value="&lt;div&gt;ruigu_member_day_report_dxdl 客户日报表（电线电缆）&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1530" y="360" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r76c9Vmj9TOw2Hqpau5v-18" value="&lt;div&gt;ruigu_member_day_report_r8 &lt;br&gt;客户日报表（R8）&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r76c9Vmj9TOw2Hqpau5v-18" value="&lt;div&gt;ruigu_member_day_report_r8 &lt;br&gt;客户日报表（R8）&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1930" y="360" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r76c9Vmj9TOw2Hqpau5v-19" value="&lt;div&gt;ruigu_member_day_report_total 客户日报表(汇总)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r76c9Vmj9TOw2Hqpau5v-19" value="&lt;div&gt;ruigu_member_day_report_total 客户日报表(汇总)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1320" y="420" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cs6FQSA_lrqwUWHlXw0X-1" value="门店&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-750" width="490" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="Cs6FQSA_lrqwUWHlXw0X-3" value="wyz_sale_member_info&lt;br&gt;店铺表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-700" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cs6FQSA_lrqwUWHlXw0X-4" value="ruigu_intent_group&lt;br&gt;销售组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1050" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cs6FQSA_lrqwUWHlXw0X-5" value="wyz_sale_checkin_new&lt;br&gt;销售拜访表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cs6FQSA_lrqwUWHlXw0X-6" value="visit_task&lt;br&gt;销售拜访任务表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="350" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cs6FQSA_lrqwUWHlXw0X-9" value="visit_task_store&lt;br&gt;销售拜访任务_关联门店" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="350" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cs6FQSA_lrqwUWHlXw0X-10" value="sale_group_district_asso&lt;br&gt;销售组对应的视野围栏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cs6FQSA_lrqwUWHlXw0X-11" value="&lt;span style=&quot;orphans: 2; text-align: left; text-indent: 0px; widows: 2; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;sale_area&lt;br&gt;销运区域表（蜂窝）&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="50" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cs6FQSA_lrqwUWHlXw0X-12" value="ruigu_user_app_trace&lt;br&gt;用户app记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="290" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cs6FQSA_lrqwUWHlXw0X-13" value="ruigu_system_role&lt;br&gt;锐锢系统用户类型表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="60" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cs6FQSA_lrqwUWHlXw0X-14" value="ruigu_system_role_related&lt;br&gt;锐锢系统用户类型关联表&amp;nbsp;&lt;br&gt;销售用户表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="795" y="60" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cs6FQSA_lrqwUWHlXw0X-15" value="ruigu_store_member_apply&lt;br&gt;店铺B账号申请表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-640" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cs6FQSA_lrqwUWHlXw0X-16" value="ruigu_store_ext&lt;br&gt;门店拓展表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-580" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
