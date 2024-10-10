@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="co3uCJApPV4dkqmszSku">
-    <mxGraphModel dx="3790" dy="3974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2901" dy="3483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -222,10 +222,10 @@
           <mxGeometry x="300" y="-324.25" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z9NHNM5eDo6izXRrwf1n-85" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 14px;&quot;&gt;新城区&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="-550" width="60" height="30" as="geometry" />
+          <mxGeometry x="-155" y="-563.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z9NHNM5eDo6izXRrwf1n-88" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 14px;&quot;&gt;老城区&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-284" y="-1510" width="60" height="30" as="geometry" />
+          <mxGeometry x="-217" y="-1570" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z9NHNM5eDo6izXRrwf1n-89" value="&lt;div&gt;RS-业务聚合服务&lt;/div&gt;ruigu_crm" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-233.13" y="-1050" width="359.88" height="296" as="geometry" />
@@ -553,7 +553,7 @@
           <mxGeometry x="-68.5" y="-942" width="53.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z9NHNM5eDo6izXRrwf1n-276" value="规则商品&amp;amp;控区控价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="-850" width="117" height="30" as="geometry" />
+          <mxGeometry x="-217" y="-897" width="117" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z9NHNM5eDo6izXRrwf1n-277" value="组织架构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-210" y="-997" width="53.5" height="30" as="geometry" />
@@ -603,13 +603,13 @@
           <mxGeometry x="60" y="-957.5" width="53.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z9NHNM5eDo6izXRrwf1n-294" value="rs-service" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="-900" width="210" height="170" as="geometry" />
+          <mxGeometry x="-490" y="-900" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Z9NHNM5eDo6izXRrwf1n-296" value="组织架构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z9NHNM5eDo6izXRrwf1n-296" value="门店管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-480" y="-867" width="53.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z9NHNM5eDo6izXRrwf1n-297" value="组织架构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-413" y="-867" width="53.5" height="30" as="geometry" />
+        <mxCell id="Z9NHNM5eDo6izXRrwf1n-297" value="优惠券申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-413" y="-864" width="73" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
