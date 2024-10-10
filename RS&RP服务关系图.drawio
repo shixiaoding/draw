@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="co3uCJApPV4dkqmszSku">
-    <mxGraphModel dx="2901" dy="3483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4093" dy="4022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,7 +44,7 @@
         <mxCell id="Z9NHNM5eDo6izXRrwf1n-272" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9NHNM5eDo6izXRrwf1n-2" target="Z9NHNM5eDo6izXRrwf1n-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z9NHNM5eDo6izXRrwf1n-2" value="RS-APP" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Z9NHNM5eDo6izXRrwf1n-2" value="RS-APP" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="230" y="-640" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z9NHNM5eDo6izXRrwf1n-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9NHNM5eDo6izXRrwf1n-4" target="Z9NHNM5eDo6izXRrwf1n-7">
@@ -55,7 +55,7 @@
         <mxCell id="Z9NHNM5eDo6izXRrwf1n-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="Z9NHNM5eDo6izXRrwf1n-4" target="Z9NHNM5eDo6izXRrwf1n-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z9NHNM5eDo6izXRrwf1n-4" value="RP-APP" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Z9NHNM5eDo6izXRrwf1n-4" value="RP-APP" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="330" y="-640" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z9NHNM5eDo6izXRrwf1n-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9NHNM5eDo6izXRrwf1n-7" target="Z9NHNM5eDo6izXRrwf1n-8">
@@ -64,7 +64,7 @@
         <mxCell id="Z9NHNM5eDo6izXRrwf1n-7" value="渠道网关" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="280" y="-540" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z9NHNM5eDo6izXRrwf1n-8" value="渠道作业系统服务&lt;br&gt;crm-mobile" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="Z9NHNM5eDo6izXRrwf1n-8" value="渠道作业系统服务&lt;br&gt;crm-mobile" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="195" y="-430" width="185" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Z9NHNM5eDo6izXRrwf1n-81" value="查询、创建、跟进" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="Z9NHNM5eDo6izXRrwf1n-9" target="Z9NHNM5eDo6izXRrwf1n-10">
