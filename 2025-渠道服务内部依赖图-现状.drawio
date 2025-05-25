@@ -4,14 +4,26 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bJtqQ9VPk2n9-TVYa7WY-3" value="渠道网关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="155" y="195" width="475" height="35" as="geometry" />
+        <mxCell id="bJtqQ9VPk2n9-TVYa7WY-3" value="渠道网关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="120" y="220" width="475" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="bJtqQ9VPk2n9-TVYa7WY-15" value="RS-APP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="bJtqQ9VPk2n9-TVYa7WY-15" value="RS-APP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="170" y="140" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="bJtqQ9VPk2n9-TVYa7WY-16" value="RP-APP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="bJtqQ9VPk2n9-TVYa7WY-16" value="RP-APP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="340" y="140" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="PsItqs-l9x2g7-KIEnPt-1" value="crm-rp-bff" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="500" y="300" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="PsItqs-l9x2g7-KIEnPt-2" value="crm-mobile" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="120" y="390" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="PsItqs-l9x2g7-KIEnPt-3" value="crm-rp" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="505" y="400" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="PsItqs-l9x2g7-KIEnPt-4" value="ruigu-crm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="310" y="390" width="90" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
