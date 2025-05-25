@@ -15,18 +15,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bJtqQ9VPk2n9-TVYa7WY-3" value="渠道网关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Helvetica;labelBackgroundColor=none;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="120" y="220" width="600" height="35" as="geometry" />
+          <mxGeometry x="250" y="220" width="470" height="35" as="geometry" />
         </mxCell>
         <mxCell id="PsItqs-l9x2g7-KIEnPt-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bJtqQ9VPk2n9-TVYa7WY-15" target="PsItqs-l9x2g7-KIEnPt-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="80" y="148" />
-              <mxPoint x="80" y="418" />
+              <mxPoint x="210" y="148" />
+              <mxPoint x="210" y="418" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bJtqQ9VPk2n9-TVYa7WY-15" value="RS-APP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;labelBackgroundColor=none;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="170" y="130" width="90" height="35" as="geometry" />
+          <mxGeometry x="280" y="130" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="bJtqQ9VPk2n9-TVYa7WY-16" value="RP-APP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;labelBackgroundColor=none;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="550" y="130" width="90" height="35" as="geometry" />
@@ -55,6 +55,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="PsItqs-l9x2g7-KIEnPt-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PsItqs-l9x2g7-KIEnPt-3" target="PsItqs-l9x2g7-KIEnPt-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PsItqs-l9x2g7-KIEnPt-3" value="crm-rp" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Helvetica;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="554" y="400" width="90" height="35" as="geometry" />
         </mxCell>
@@ -79,13 +82,13 @@
           <mxGeometry x="402.5" y="400" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="PsItqs-l9x2g7-KIEnPt-6" value="crm-rp-tag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Helvetica;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="937" y="630" width="90" height="35" as="geometry" />
+          <mxGeometry x="790" y="585" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="PsItqs-l9x2g7-KIEnPt-7" value="crm-weixin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Helvetica;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1067" y="630" width="90" height="35" as="geometry" />
+          <mxGeometry x="920" y="585" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="PsItqs-l9x2g7-KIEnPt-8" value="crm-rp-commission" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Helvetica;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="827" y="630" width="90" height="35" as="geometry" />
+          <mxGeometry x="680" y="465" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="PsItqs-l9x2g7-KIEnPt-10" value="&lt;p&gt;&lt;span&gt;任务中心&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;rbox-portrait&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="190" y="630" width="90" height="40" as="geometry" />
