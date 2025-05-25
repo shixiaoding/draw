@@ -4,41 +4,44 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bJtqQ9VPk2n9-TVYa7WY-3" value="渠道网关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="bJtqQ9VPk2n9-TVYa7WY-3" value="渠道网关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Helvetica;labelBackgroundColor=none;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="120" y="220" width="475" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="bJtqQ9VPk2n9-TVYa7WY-15" value="RS-APP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="bJtqQ9VPk2n9-TVYa7WY-15" value="RS-APP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;labelBackgroundColor=none;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="170" y="140" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="bJtqQ9VPk2n9-TVYa7WY-16" value="RP-APP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="bJtqQ9VPk2n9-TVYa7WY-16" value="RP-APP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;labelBackgroundColor=none;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="340" y="140" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="PsItqs-l9x2g7-KIEnPt-1" value="crm-rp-bff" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="PsItqs-l9x2g7-KIEnPt-1" value="crm-rp-bff" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Helvetica;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="500" y="300" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="PsItqs-l9x2g7-KIEnPt-2" value="crm-mobile" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="PsItqs-l9x2g7-KIEnPt-2" value="crm-mobile" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Helvetica;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="120" y="390" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="PsItqs-l9x2g7-KIEnPt-3" value="crm-rp" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="PsItqs-l9x2g7-KIEnPt-3" value="crm-rp" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Helvetica;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="505" y="400" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="PsItqs-l9x2g7-KIEnPt-4" value="ruigu-crm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="PsItqs-l9x2g7-KIEnPt-4" value="ruigu-crm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Helvetica;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="310" y="390" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="PsItqs-l9x2g7-KIEnPt-5" value="rs-service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="PsItqs-l9x2g7-KIEnPt-5" value="rs-service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Helvetica;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="310" y="530" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="PsItqs-l9x2g7-KIEnPt-6" value="crm-rp-tag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="PsItqs-l9x2g7-KIEnPt-6" value="crm-rp-tag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Helvetica;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="937" y="630" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="PsItqs-l9x2g7-KIEnPt-7" value="crm-weixin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="PsItqs-l9x2g7-KIEnPt-7" value="crm-weixin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Helvetica;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1067" y="630" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="PsItqs-l9x2g7-KIEnPt-8" value="crm-rp-commission" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="PsItqs-l9x2g7-KIEnPt-8" value="crm-rp-commission" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Helvetica;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="827" y="630" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="PsItqs-l9x2g7-KIEnPt-9" value="&lt;div style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;任务中心&lt;/div&gt;&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;inner-fire-mobile&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="290" y="630" width="90" height="35" as="geometry" />
+        <mxCell id="PsItqs-l9x2g7-KIEnPt-9" value="&lt;p&gt;&lt;span&gt;任务中心&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;inner-fire-mobile&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="630" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PsItqs-l9x2g7-KIEnPt-10" value="&lt;p&gt;&lt;span&gt;任务中心&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;rbox-portrait&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="840" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
