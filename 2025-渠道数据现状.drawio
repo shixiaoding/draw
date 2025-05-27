@@ -45,13 +45,21 @@
         <mxCell id="Xj7MVIoBm8f07yktk7jp-1" value="xxl-job" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="640" width="74" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Xj7MVIoBm8f07yktk7jp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xj7MVIoBm8f07yktk7jp-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="325" y="570" as="targetPoint" />
+        <mxCell id="Xj7MVIoBm8f07yktk7jp-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xj7MVIoBm8f07yktk7jp-3" target="Xj7MVIoBm8f07yktk7jp-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xj7MVIoBm8f07yktk7jp-43" value="同步写入数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xj7MVIoBm8f07yktk7jp-42">
+          <mxGeometry x="0.2216" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xj7MVIoBm8f07yktk7jp-29" value="同步写入数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xj7MVIoBm8f07yktk7jp-28">
-          <mxGeometry x="-0.149" y="-1" relative="1" as="geometry">
+        <mxCell id="Xj7MVIoBm8f07yktk7jp-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xj7MVIoBm8f07yktk7jp-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xj7MVIoBm8f07yktk7jp-46" value="读取&lt;div&gt;计算&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;写入&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xj7MVIoBm8f07yktk7jp-44">
+          <mxGeometry x="0.1269" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -72,20 +80,6 @@
         </mxCell>
         <mxCell id="Xj7MVIoBm8f07yktk7jp-21" value="redis" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="Xj7MVIoBm8f07yktk7jp-23">
           <mxGeometry x="79.41176470588235" y="18.75" width="55.588235294117645" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Xj7MVIoBm8f07yktk7jp-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.647;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Xj7MVIoBm8f07yktk7jp-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="394" y="640" as="sourcePoint" />
-            <mxPoint x="393" y="570" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="400" y="640" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Xj7MVIoBm8f07yktk7jp-31" value="读取&lt;div&gt;计算&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;写入&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xj7MVIoBm8f07yktk7jp-30">
-          <mxGeometry x="0.5779" y="1" relative="1" as="geometry">
-            <mxPoint y="24" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Xj7MVIoBm8f07yktk7jp-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="Xj7MVIoBm8f07yktk7jp-35" target="X29Cv0jLeG4FGPxGaaAt-17">
           <mxGeometry relative="1" as="geometry" />
