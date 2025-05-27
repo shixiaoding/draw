@@ -29,7 +29,7 @@
         <mxCell id="k2uD15khSfJf9hs8rO5q-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k2uD15khSfJf9hs8rO5q-27" target="k2uD15khSfJf9hs8rO5q-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k2uD15khSfJf9hs8rO5q-27" value="rs-web" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Helvetica;labelBackgroundColor=none;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="k2uD15khSfJf9hs8rO5q-27" value="&lt;div&gt;RS-web端&lt;/div&gt;rs-web" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Helvetica;labelBackgroundColor=none;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="240" y="340" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="k2uD15khSfJf9hs8rO5q-42" value="WEB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
@@ -71,10 +71,10 @@
         <mxCell id="k2uD15khSfJf9hs8rO5q-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="k2uD15khSfJf9hs8rO5q-87" target="k2uD15khSfJf9hs8rO5q-96" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k2uD15khSfJf9hs8rO5q-87" value="rs-api" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Helvetica;labelBackgroundColor=none;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="k2uD15khSfJf9hs8rO5q-87" value="&lt;div&gt;后端服务接口&lt;/div&gt;rs-api" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Helvetica;labelBackgroundColor=none;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="240" y="430" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="k2uD15khSfJf9hs8rO5q-89" value="rs-service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Helvetica;labelBackgroundColor=none;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="k2uD15khSfJf9hs8rO5q-89" value="&lt;div&gt;RS门店&amp;amp;优惠券&lt;/div&gt;rs-service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Helvetica;labelBackgroundColor=none;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="240" y="510" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="k2uD15khSfJf9hs8rO5q-91" value="锐销宝后台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;labelBackgroundColor=none;fontSize=12;" parent="1" vertex="1">
