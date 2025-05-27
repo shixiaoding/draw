@@ -35,30 +35,6 @@
         <mxCell id="k2uD15khSfJf9hs8rO5q-42" value="WEB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="80" y="110" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k2uD15khSfJf9hs8rO5q-60" value="渠道外部查询服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Helvetica;labelBackgroundColor=none;fontSize=12;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="2010" y="880" width="300" height="97" as="geometry" />
-        </mxCell>
-        <mxCell id="k2uD15khSfJf9hs8rO5q-64" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="2020" y="903" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="k2uD15khSfJf9hs8rO5q-65" value="&lt;p&gt;组与销售关系&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;" parent="k2uD15khSfJf9hs8rO5q-64" vertex="1">
-          <mxGeometry x="100" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="k2uD15khSfJf9hs8rO5q-66" value="组织架构" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Helvetica;labelBackgroundColor=none;fontSize=12;" parent="k2uD15khSfJf9hs8rO5q-64" vertex="1">
-          <mxGeometry width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="k2uD15khSfJf9hs8rO5q-67" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="2020" y="943" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="k2uD15khSfJf9hs8rO5q-68" value="&lt;p&gt;销售信息&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;" parent="k2uD15khSfJf9hs8rO5q-67" vertex="1">
-          <mxGeometry x="100" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="k2uD15khSfJf9hs8rO5q-69" value="企拍信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Helvetica;labelBackgroundColor=none;fontSize=12;" parent="k2uD15khSfJf9hs8rO5q-67" vertex="1">
-          <mxGeometry width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="k2uD15khSfJf9hs8rO5q-70" value="等等等" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Helvetica;labelBackgroundColor=none;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="2207.5" y="901.25" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="k2uD15khSfJf9hs8rO5q-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k2uD15khSfJf9hs8rO5q-83" target="k2uD15khSfJf9hs8rO5q-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
