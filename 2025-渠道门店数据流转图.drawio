@@ -4,20 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uCHgU1pFgtNSfYp-mdzU-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uCHgU1pFgtNSfYp-mdzU-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="770" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="380" y="690" />
-              <mxPoint x="241" y="690" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uCHgU1pFgtNSfYp-mdzU-2" value="RS数据库&lt;div&gt;ruigu-crm&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="350" y="590" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="uCHgU1pFgtNSfYp-mdzU-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uCHgU1pFgtNSfYp-mdzU-3" target="uCHgU1pFgtNSfYp-mdzU-5">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uCHgU1pFgtNSfYp-mdzU-3" value="RP数据库crm-rp" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="210" y="590" width="60" height="80" as="geometry" />
@@ -32,6 +20,9 @@
         </mxCell>
         <mxCell id="uCHgU1pFgtNSfYp-mdzU-4" value="&lt;div&gt;门店聚合&lt;/div&gt;rs-service" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="280" y="420" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uCHgU1pFgtNSfYp-mdzU-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uCHgU1pFgtNSfYp-mdzU-5" target="uCHgU1pFgtNSfYp-mdzU-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uCHgU1pFgtNSfYp-mdzU-5" value="otter" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.sequential_data;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="210" y="770" width="60" height="60" as="geometry" />
@@ -97,22 +88,35 @@
         <mxCell id="uCHgU1pFgtNSfYp-mdzU-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uCHgU1pFgtNSfYp-mdzU-38" target="uCHgU1pFgtNSfYp-mdzU-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="uCHgU1pFgtNSfYp-mdzU-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uCHgU1pFgtNSfYp-mdzU-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uCHgU1pFgtNSfYp-mdzU-38" value="canal" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.sequential_data;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="350" y="770" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uCHgU1pFgtNSfYp-mdzU-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uCHgU1pFgtNSfYp-mdzU-3" target="uCHgU1pFgtNSfYp-mdzU-38">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="240" y="690" />
-              <mxPoint x="380" y="690" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uCHgU1pFgtNSfYp-mdzU-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uCHgU1pFgtNSfYp-mdzU-2" target="uCHgU1pFgtNSfYp-mdzU-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="uCHgU1pFgtNSfYp-mdzU-43" value="数据引擎" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="350" y="880" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uCHgU1pFgtNSfYp-mdzU-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uCHgU1pFgtNSfYp-mdzU-5" target="uCHgU1pFgtNSfYp-mdzU-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uCHgU1pFgtNSfYp-mdzU-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uCHgU1pFgtNSfYp-mdzU-38" target="uCHgU1pFgtNSfYp-mdzU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uCHgU1pFgtNSfYp-mdzU-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uCHgU1pFgtNSfYp-mdzU-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uCHgU1pFgtNSfYp-mdzU-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uCHgU1pFgtNSfYp-mdzU-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uCHgU1pFgtNSfYp-mdzU-49" value="大数据" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="480" y="770" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
