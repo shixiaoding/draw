@@ -1,9 +1,94 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.9">
   <diagram name="第 1 页" id="tACLhDH1KyBIVyYe_fPB">
-    <mxGraphModel>
+    <mxGraphModel dx="1815" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uCHgU1pFgtNSfYp-mdzU-2" value="RS数据库&lt;div&gt;ruigu-crm&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="350" y="590" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uCHgU1pFgtNSfYp-mdzU-3" value="RP数据库crm-rp" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="210" y="590" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uCHgU1pFgtNSfYp-mdzU-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uCHgU1pFgtNSfYp-mdzU-4" target="uCHgU1pFgtNSfYp-mdzU-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uCHgU1pFgtNSfYp-mdzU-24" value="通过接口完成数据流转" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uCHgU1pFgtNSfYp-mdzU-23">
+          <mxGeometry x="-0.2" y="3" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uCHgU1pFgtNSfYp-mdzU-4" value="&lt;div&gt;门店聚合&lt;/div&gt;rs-service" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="280" y="420" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uCHgU1pFgtNSfYp-mdzU-5" value="otter" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.sequential_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="280" y="750" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uCHgU1pFgtNSfYp-mdzU-6" value="&lt;font&gt;画像&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;color: rgb(46, 46, 46); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-weight: 700; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;rbox-portrait&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="280" y="860" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uCHgU1pFgtNSfYp-mdzU-7" value="RS门店表&lt;div&gt;wyz_sale_member_info&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uCHgU1pFgtNSfYp-mdzU-8" value="RP门店表&lt;div&gt;wyz_sale_member_info&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uCHgU1pFgtNSfYp-mdzU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uCHgU1pFgtNSfYp-mdzU-5" target="uCHgU1pFgtNSfYp-mdzU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uCHgU1pFgtNSfYp-mdzU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uCHgU1pFgtNSfYp-mdzU-2" target="uCHgU1pFgtNSfYp-mdzU-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="700" />
+              <mxPoint x="310" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uCHgU1pFgtNSfYp-mdzU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uCHgU1pFgtNSfYp-mdzU-3" target="uCHgU1pFgtNSfYp-mdzU-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="700" />
+              <mxPoint x="310" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uCHgU1pFgtNSfYp-mdzU-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uCHgU1pFgtNSfYp-mdzU-2" target="uCHgU1pFgtNSfYp-mdzU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uCHgU1pFgtNSfYp-mdzU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uCHgU1pFgtNSfYp-mdzU-3" target="uCHgU1pFgtNSfYp-mdzU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uCHgU1pFgtNSfYp-mdzU-15" value="新增、更新门店" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uCHgU1pFgtNSfYp-mdzU-14">
+          <mxGeometry x="0.6333" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uCHgU1pFgtNSfYp-mdzU-16" value="RS门店表&lt;div&gt;wyz_sale_member_info&lt;/div&gt;&lt;div&gt;RP门店表&lt;/div&gt;&lt;div&gt;rp_sale_member_info&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="950" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uCHgU1pFgtNSfYp-mdzU-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uCHgU1pFgtNSfYp-mdzU-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uCHgU1pFgtNSfYp-mdzU-22" value="&lt;div&gt;门店聚合&lt;/div&gt;rs-service" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="770" y="420" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uCHgU1pFgtNSfYp-mdzU-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uCHgU1pFgtNSfYp-mdzU-22" target="uCHgU1pFgtNSfYp-mdzU-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uCHgU1pFgtNSfYp-mdzU-26" value="Bdiam" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uCHgU1pFgtNSfYp-mdzU-25">
+          <mxGeometry x="-0.7038" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uCHgU1pFgtNSfYp-mdzU-28" value="ruigui&lt;br&gt;主库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="980" y="420" width="60" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
