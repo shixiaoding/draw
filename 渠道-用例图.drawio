@@ -240,6 +240,9 @@
         <mxCell id="XD7w7CoPH_M2G8A22QaK-154" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XD7w7CoPH_M2G8A22QaK-133" target="XD7w7CoPH_M2G8A22QaK-137">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XD7w7CoPH_M2G8A22QaK-157" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XD7w7CoPH_M2G8A22QaK-133" target="XD7w7CoPH_M2G8A22QaK-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XD7w7CoPH_M2G8A22QaK-133" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; RPM销售管理" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="797" y="135" width="30" height="60" as="geometry" />
         </mxCell>
