@@ -62,25 +62,25 @@
           <mxGeometry x="305" y="760" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XD7w7CoPH_M2G8A22QaK-19" value="下单" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="880" width="90" height="50" as="geometry" />
+          <mxGeometry x="300" y="970" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XD7w7CoPH_M2G8A22QaK-20" value="查看业绩" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="1070" width="90" height="50" as="geometry" />
+          <mxGeometry x="300" y="1160" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XD7w7CoPH_M2G8A22QaK-21" value="业绩分析" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="1200" width="90" height="50" as="geometry" />
+          <mxGeometry x="300" y="1290" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XD7w7CoPH_M2G8A22QaK-22" value="指定策略" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="1270" width="90" height="50" as="geometry" />
+          <mxGeometry x="300" y="1360" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XD7w7CoPH_M2G8A22QaK-25" value="派送包裹" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="1000" width="90" height="50" as="geometry" />
+          <mxGeometry x="300" y="1090" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XD7w7CoPH_M2G8A22QaK-26" value="创建门店" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="80" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XD7w7CoPH_M2G8A22QaK-29" value="核对佣金" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1390" width="90" height="50" as="geometry" />
+          <mxGeometry x="305" y="1480" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XD7w7CoPH_M2G8A22QaK-36" value="销售机会" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="430" width="90" height="50" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry x="305" y="560" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XD7w7CoPH_M2G8A22QaK-51" value="确认佣金" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1460" width="90" height="50" as="geometry" />
+          <mxGeometry x="305" y="1550" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XD7w7CoPH_M2G8A22QaK-52" value="配置销售架构" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="-420" width="90" height="50" as="geometry" />
@@ -131,7 +131,7 @@
           <mxGeometry x="30" y="680" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XD7w7CoPH_M2G8A22QaK-78" value="售后退换修" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="1140" width="90" height="50" as="geometry" />
+          <mxGeometry x="300" y="1230" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XD7w7CoPH_M2G8A22QaK-104" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" target="XD7w7CoPH_M2G8A22QaK-52">
           <mxGeometry relative="1" as="geometry">
@@ -196,7 +196,7 @@
         <mxCell id="XD7w7CoPH_M2G8A22QaK-89" value="分配目标" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="10" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XD7w7CoPH_M2G8A22QaK-116" value="审批导购" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XD7w7CoPH_M2G8A22QaK-116" value="导购审核" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="820" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XD7w7CoPH_M2G8A22QaK-119" value="指派门店线索" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -206,7 +206,7 @@
           <mxGeometry x="295" y="-70" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XD7w7CoPH_M2G8A22QaK-127" value="拜访结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="940" width="90" height="50" as="geometry" />
+          <mxGeometry x="300" y="1030" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XD7w7CoPH_M2G8A22QaK-131" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="XD7w7CoPH_M2G8A22QaK-130" target="XD7w7CoPH_M2G8A22QaK-52">
           <mxGeometry relative="1" as="geometry">
@@ -265,19 +265,31 @@
           <mxGeometry x="300" y="-280" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XD7w7CoPH_M2G8A22QaK-149" value="设置佣金规则" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1330" width="90" height="50" as="geometry" />
+          <mxGeometry x="305" y="1420" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XD7w7CoPH_M2G8A22QaK-151" value="申请企拍退出" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1530" width="95" height="50" as="geometry" />
+          <mxGeometry x="305" y="1620" width="95" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XD7w7CoPH_M2G8A22QaK-152" value="审批企拍退出" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="312.5" y="1600" width="90" height="50" as="geometry" />
+          <mxGeometry x="307.5" y="1690" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XD7w7CoPH_M2G8A22QaK-159" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.944;entryY=0.72;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="XD7w7CoPH_M2G8A22QaK-133" target="XD7w7CoPH_M2G8A22QaK-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XD7w7CoPH_M2G8A22QaK-161" value="维护门店信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="500" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XD7w7CoPH_M2G8A22QaK-166" value="查看推品清单" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="900" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XD7w7CoPH_M2G8A22QaK-168" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XD7w7CoPH_M2G8A22QaK-167" target="XD7w7CoPH_M2G8A22QaK-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XD7w7CoPH_M2G8A22QaK-169" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XD7w7CoPH_M2G8A22QaK-167" target="XD7w7CoPH_M2G8A22QaK-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XD7w7CoPH_M2G8A22QaK-167" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; AM/CM销售管理" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="870" y="920" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
