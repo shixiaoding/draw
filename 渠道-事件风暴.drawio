@@ -40,6 +40,12 @@
         <mxCell id="CuO03zdZ_H9ETCIROUNS-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sNWVwF46tpGVJdv4zzlN-1" target="CuO03zdZ_H9ETCIROUNS-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CuO03zdZ_H9ETCIROUNS-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sNWVwF46tpGVJdv4zzlN-1" target="sNWVwF46tpGVJdv4zzlN-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CuO03zdZ_H9ETCIROUNS-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sNWVwF46tpGVJdv4zzlN-1" target="CuO03zdZ_H9ETCIROUNS-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sNWVwF46tpGVJdv4zzlN-1" value="运营" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="310" width="30" height="60" as="geometry" />
         </mxCell>
@@ -64,7 +70,7 @@
         <mxCell id="CuO03zdZ_H9ETCIROUNS-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sNWVwF46tpGVJdv4zzlN-6" target="CuO03zdZ_H9ETCIROUNS-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sNWVwF46tpGVJdv4zzlN-6" value="增加-人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
+        <mxCell id="sNWVwF46tpGVJdv4zzlN-6" value="增加-销售人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
           <mxGeometry x="160" y="1050" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sNWVwF46tpGVJdv4zzlN-7" value="创建-预算池" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
@@ -214,7 +220,7 @@
         <mxCell id="CuO03zdZ_H9ETCIROUNS-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CuO03zdZ_H9ETCIROUNS-66" target="CuO03zdZ_H9ETCIROUNS-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CuO03zdZ_H9ETCIROUNS-66" value="编辑-人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
+        <mxCell id="CuO03zdZ_H9ETCIROUNS-66" value="编辑-销售人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
           <mxGeometry x="160" y="1120" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CuO03zdZ_H9ETCIROUNS-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CuO03zdZ_H9ETCIROUNS-69" target="CuO03zdZ_H9ETCIROUNS-70">
