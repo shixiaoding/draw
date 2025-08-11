@@ -266,7 +266,7 @@
           <mxGeometry x="64" y="2220" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8YfOqAkpZzOhsT7Vedsc-35" value="创建-推品清单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
-          <mxGeometry x="65" y="2350" width="110" height="40" as="geometry" />
+          <mxGeometry x="65" y="2338" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8YfOqAkpZzOhsT7Vedsc-36" value="订单信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D7F792;" vertex="1" parent="1">
           <mxGeometry x="-716" y="1340" width="110" height="40" as="geometry" />
@@ -398,7 +398,7 @@
           <mxGeometry x="1000" y="2600" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8YfOqAkpZzOhsT7Vedsc-93" value="推送-推品清单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
-          <mxGeometry x="66" y="2420" width="110" height="40" as="geometry" />
+          <mxGeometry x="65" y="2400" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8YfOqAkpZzOhsT7Vedsc-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8YfOqAkpZzOhsT7Vedsc-94" target="8YfOqAkpZzOhsT7Vedsc-96">
           <mxGeometry relative="1" as="geometry" />
@@ -426,7 +426,7 @@
           <mxGeometry x="64" y="1502" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8YfOqAkpZzOhsT7Vedsc-111" value="派送-包裹" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
-          <mxGeometry x="65" y="2490" width="110" height="40" as="geometry" />
+          <mxGeometry x="64" y="2480" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8YfOqAkpZzOhsT7Vedsc-112" value="验货-包裹" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
           <mxGeometry x="65" y="2550" width="110" height="40" as="geometry" />
@@ -444,10 +444,10 @@
           <mxGeometry x="65" y="2830" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8YfOqAkpZzOhsT7Vedsc-118" value="维修" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
-          <mxGeometry x="50" y="2900" width="110" height="40" as="geometry" />
+          <mxGeometry x="64" y="2902.5" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8YfOqAkpZzOhsT7Vedsc-119" value="返仓" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
-          <mxGeometry x="50" y="2970" width="110" height="40" as="geometry" />
+          <mxGeometry x="64" y="2970" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8YfOqAkpZzOhsT7Vedsc-125" value="门店已盘点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFAA60;" vertex="1" parent="1">
           <mxGeometry x="390" y="1720" width="110" height="40" as="geometry" />
