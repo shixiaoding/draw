@@ -23,25 +23,37 @@
           <mxGeometry x="860" y="80" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sNWVwF46tpGVJdv4zzlN-1" value="运营" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="230" width="30" height="60" as="geometry" />
+          <mxGeometry x="50" y="310" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sNWVwF46tpGVJdv4zzlN-2" value="新建-销售架构" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
-          <mxGeometry x="160" y="240" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sNWVwF46tpGVJdv4zzlN-3" value="修改-销售架构" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
           <mxGeometry x="160" y="320" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sNWVwF46tpGVJdv4zzlN-4" value="绑定-管理区域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
+        <mxCell id="sNWVwF46tpGVJdv4zzlN-3" value="修改-销售架构" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
           <mxGeometry x="160" y="400" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sNWVwF46tpGVJdv4zzlN-5" value="绑定-管理区域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
+        <mxCell id="sNWVwF46tpGVJdv4zzlN-4" value="绑定-管理区域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
           <mxGeometry x="160" y="480" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sNWVwF46tpGVJdv4zzlN-6" value="新增-用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
+        <mxCell id="sNWVwF46tpGVJdv4zzlN-6" value="新增-销售" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
           <mxGeometry x="160" y="560" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sNWVwF46tpGVJdv4zzlN-7" value="新增-用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
-          <mxGeometry x="160" y="640" width="110" height="40" as="geometry" />
+        <mxCell id="sNWVwF46tpGVJdv4zzlN-7" value="创建-预算池" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
+          <mxGeometry x="160" y="700" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWVwF46tpGVJdv4zzlN-8" value="External System&lt;div&gt;外部系统&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA97BC;" vertex="1" parent="1">
+          <mxGeometry x="470" y="160" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWVwF46tpGVJdv4zzlN-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFAA60;" vertex="1" parent="1">
+          <mxGeometry x="470" y="320" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWVwF46tpGVJdv4zzlN-10" value="指派-B端申请门店" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
+          <mxGeometry x="160" y="630" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWVwF46tpGVJdv4zzlN-11" value="查看-业绩" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
+          <mxGeometry x="160" y="770" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWVwF46tpGVJdv4zzlN-12" value="业绩分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
+          <mxGeometry x="160" y="850" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
