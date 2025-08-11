@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.9">
   <diagram name="第 1 页" id="7w6zi9jCp_np2msTW12s">
-    <mxGraphModel dx="731" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1159" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,38 +25,56 @@
         <mxCell id="sNWVwF46tpGVJdv4zzlN-1" value="运营" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="310" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sNWVwF46tpGVJdv4zzlN-2" value="新建-销售架构" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
+        <mxCell id="sNWVwF46tpGVJdv4zzlN-2" value="新建-销售组" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
           <mxGeometry x="160" y="320" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sNWVwF46tpGVJdv4zzlN-3" value="修改-销售架构" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
+        <mxCell id="sNWVwF46tpGVJdv4zzlN-3" value="修改-修改组" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
           <mxGeometry x="160" y="400" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sNWVwF46tpGVJdv4zzlN-4" value="绑定-管理区域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
-          <mxGeometry x="160" y="480" width="110" height="40" as="geometry" />
+          <mxGeometry x="160" y="580" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sNWVwF46tpGVJdv4zzlN-6" value="新增-销售" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
-          <mxGeometry x="160" y="560" width="110" height="40" as="geometry" />
+          <mxGeometry x="160" y="660" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sNWVwF46tpGVJdv4zzlN-7" value="创建-预算池" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
-          <mxGeometry x="160" y="700" width="110" height="40" as="geometry" />
+          <mxGeometry x="160" y="800" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sNWVwF46tpGVJdv4zzlN-8" value="External System&lt;div&gt;外部系统&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA97BC;" parent="1" vertex="1">
-          <mxGeometry x="470" y="160" width="110" height="40" as="geometry" />
+          <mxGeometry x="600" y="200" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sNWVwF46tpGVJdv4zzlN-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFAA60;" parent="1" vertex="1">
-          <mxGeometry x="470" y="320" width="110" height="40" as="geometry" />
+        <mxCell id="sNWVwF46tpGVJdv4zzlN-9" value="销售组已创建" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFAA60;" parent="1" vertex="1">
+          <mxGeometry x="600" y="320" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sNWVwF46tpGVJdv4zzlN-10" value="指派-B端申请门店" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
-          <mxGeometry x="160" y="630" width="110" height="40" as="geometry" />
+          <mxGeometry x="160" y="730" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sNWVwF46tpGVJdv4zzlN-11" value="配置-目标" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
-          <mxGeometry x="160" y="780" width="110" height="40" as="geometry" />
+          <mxGeometry x="160" y="880" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sNWVwF46tpGVJdv4zzlN-12" value="业绩分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
-          <mxGeometry x="160" y="850" width="110" height="40" as="geometry" />
+          <mxGeometry x="160" y="950" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CuO03zdZ_H9ETCIROUNS-1" value="查看-业绩" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
-          <mxGeometry x="160" y="930" width="110" height="40" as="geometry" />
+          <mxGeometry x="160" y="1030" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CuO03zdZ_H9ETCIROUNS-2" value="组创建规则检查" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B68BBF;" vertex="1" parent="1">
+          <mxGeometry x="330" y="320" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CuO03zdZ_H9ETCIROUNS-3" value="查看组信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D7F792;" vertex="1" parent="1">
+          <mxGeometry x="330" y="210" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CuO03zdZ_H9ETCIROUNS-8" value="查看组信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D7F792;" vertex="1" parent="1">
+          <mxGeometry x="600" y="390" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CuO03zdZ_H9ETCIROUNS-9" value="组创建规则检查" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B68BBF;" vertex="1" parent="1">
+          <mxGeometry x="330" y="400" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CuO03zdZ_H9ETCIROUNS-11" value="销售组已启用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFAA60;" vertex="1" parent="1">
+          <mxGeometry x="600" y="460" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CuO03zdZ_H9ETCIROUNS-12" value="销售组已禁用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFAA60;" vertex="1" parent="1">
+          <mxGeometry x="600" y="530" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
