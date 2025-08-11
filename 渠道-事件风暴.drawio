@@ -37,16 +37,16 @@
         <mxCell id="sNWVwF46tpGVJdv4zzlN-3" value="修改-修改组" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
           <mxGeometry x="160" y="400" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sNWVwF46tpGVJdv4zzlN-4" value="绑定-管理区域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
-          <mxGeometry x="170" y="640" width="110" height="40" as="geometry" />
+        <mxCell id="sNWVwF46tpGVJdv4zzlN-4" value="绑定-地理区域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
+          <mxGeometry x="140" y="990" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sNWVwF46tpGVJdv4zzlN-6" value="新增-销售" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
-          <mxGeometry x="170" y="720" width="110" height="40" as="geometry" />
+          <mxGeometry x="140" y="1160" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sNWVwF46tpGVJdv4zzlN-7" value="创建-预算池" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
-          <mxGeometry x="170" y="860" width="110" height="40" as="geometry" />
+          <mxGeometry x="130" y="1350" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sNWVwF46tpGVJdv4zzlN-8" value="External System&lt;div&gt;外部系统&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA97BC;" parent="1" vertex="1">
+        <mxCell id="sNWVwF46tpGVJdv4zzlN-8" value="passport" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA97BC;" parent="1" vertex="1">
           <mxGeometry x="600" y="200" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CuO03zdZ_H9ETCIROUNS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sNWVwF46tpGVJdv4zzlN-9" target="CuO03zdZ_H9ETCIROUNS-8">
@@ -56,16 +56,16 @@
           <mxGeometry x="600" y="320" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sNWVwF46tpGVJdv4zzlN-10" value="指派-B端申请门店" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
-          <mxGeometry x="170" y="790" width="110" height="40" as="geometry" />
+          <mxGeometry x="130" y="1280" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sNWVwF46tpGVJdv4zzlN-11" value="配置-目标" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
-          <mxGeometry x="170" y="940" width="110" height="40" as="geometry" />
+          <mxGeometry x="130" y="1430" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sNWVwF46tpGVJdv4zzlN-12" value="业绩分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
-          <mxGeometry x="170" y="1010" width="110" height="40" as="geometry" />
+          <mxGeometry x="130" y="1500" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CuO03zdZ_H9ETCIROUNS-1" value="查看-业绩" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1090" width="110" height="40" as="geometry" />
+          <mxGeometry x="130" y="1580" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CuO03zdZ_H9ETCIROUNS-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CuO03zdZ_H9ETCIROUNS-2" target="sNWVwF46tpGVJdv4zzlN-9">
           <mxGeometry relative="1" as="geometry" />
@@ -113,7 +113,34 @@
           <mxGeometry x="600" y="400" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CuO03zdZ_H9ETCIROUNS-31" value="调整-组上下级" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
-          <mxGeometry x="160" y="560" width="110" height="40" as="geometry" />
+          <mxGeometry x="160" y="600" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CuO03zdZ_H9ETCIROUNS-33" value="上下级调整规则检查" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B68BBF;" vertex="1" parent="1">
+          <mxGeometry x="330" y="600" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CuO03zdZ_H9ETCIROUNS-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CuO03zdZ_H9ETCIROUNS-34" target="CuO03zdZ_H9ETCIROUNS-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CuO03zdZ_H9ETCIROUNS-34" value="调整组上下级" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFAA60;" vertex="1" parent="1">
+          <mxGeometry x="600" y="600" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CuO03zdZ_H9ETCIROUNS-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CuO03zdZ_H9ETCIROUNS-35" target="CuO03zdZ_H9ETCIROUNS-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CuO03zdZ_H9ETCIROUNS-35" value="调整组与人员关系" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFAA60;" vertex="1" parent="1">
+          <mxGeometry x="600" y="680" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CuO03zdZ_H9ETCIROUNS-37" value="调整组与区域关系" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFAA60;" vertex="1" parent="1">
+          <mxGeometry x="330" y="680" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CuO03zdZ_H9ETCIROUNS-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CuO03zdZ_H9ETCIROUNS-39" target="CuO03zdZ_H9ETCIROUNS-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CuO03zdZ_H9ETCIROUNS-39" value="地理区域规则验证" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B68BBF;" vertex="1" parent="1">
+          <mxGeometry x="310" y="990" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CuO03zdZ_H9ETCIROUNS-40" value="区域已绑定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFAA60;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1070" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
