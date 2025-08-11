@@ -4,23 +4,44 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_sHUTvcMdDTdJ8EnGrEK-1" value="&lt;div&gt;&lt;font&gt;command&lt;/font&gt;&lt;/div&gt;&lt;font&gt;决策命令&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
+        <mxCell id="_sHUTvcMdDTdJ8EnGrEK-1" value="&lt;div&gt;&lt;font&gt;command&lt;/font&gt;&lt;/div&gt;&lt;font&gt;决策命令&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
           <mxGeometry x="160" y="80" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_sHUTvcMdDTdJ8EnGrEK-2" value="&lt;font&gt;Domain Event&lt;/font&gt;&lt;div&gt;&lt;font&gt;领域事件&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFAA60;" vertex="1" parent="1">
+        <mxCell id="_sHUTvcMdDTdJ8EnGrEK-2" value="&lt;font&gt;Domain Event&lt;/font&gt;&lt;div&gt;&lt;font&gt;领域事件&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFAA60;" parent="1" vertex="1">
           <mxGeometry x="300" y="80" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_sHUTvcMdDTdJ8EnGrEK-3" value="Read Model&lt;div&gt;读模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D7F792;" vertex="1" parent="1">
+        <mxCell id="_sHUTvcMdDTdJ8EnGrEK-3" value="Read Model&lt;div&gt;读模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D7F792;" parent="1" vertex="1">
           <mxGeometry x="720" y="80" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_sHUTvcMdDTdJ8EnGrEK-4" value="External System&lt;div&gt;外部系统&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA97BC;" vertex="1" parent="1">
+        <mxCell id="_sHUTvcMdDTdJ8EnGrEK-4" value="External System&lt;div&gt;外部系统&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA97BC;" parent="1" vertex="1">
           <mxGeometry x="440" y="80" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_sHUTvcMdDTdJ8EnGrEK-5" value="business Policy&lt;div&gt;业务策略/规则&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B68BBF;" vertex="1" parent="1">
+        <mxCell id="_sHUTvcMdDTdJ8EnGrEK-5" value="business Policy&lt;div&gt;业务策略/规则&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B68BBF;" parent="1" vertex="1">
           <mxGeometry x="580" y="80" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_sHUTvcMdDTdJ8EnGrEK-8" value="&lt;font&gt;Entity Val Aggr&lt;/font&gt;&lt;div&gt;&lt;font&gt;领域对象&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE270;" vertex="1" parent="1">
+        <mxCell id="_sHUTvcMdDTdJ8EnGrEK-8" value="&lt;font&gt;Entity Val Aggr&lt;/font&gt;&lt;div&gt;&lt;font&gt;领域对象&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE270;" parent="1" vertex="1">
           <mxGeometry x="860" y="80" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWVwF46tpGVJdv4zzlN-1" value="运营" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWVwF46tpGVJdv4zzlN-2" value="新建-销售架构" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWVwF46tpGVJdv4zzlN-3" value="修改-销售架构" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWVwF46tpGVJdv4zzlN-4" value="绑定-管理区域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWVwF46tpGVJdv4zzlN-5" value="绑定-管理区域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWVwF46tpGVJdv4zzlN-6" value="新增-用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
+          <mxGeometry x="160" y="560" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWVwF46tpGVJdv4zzlN-7" value="新增-用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
+          <mxGeometry x="160" y="640" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
