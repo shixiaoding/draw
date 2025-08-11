@@ -256,7 +256,7 @@
         <mxCell id="CuO03zdZ_H9ETCIROUNS-90" value="调整-销售组上下级" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
           <mxGeometry x="160" y="800" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CuO03zdZ_H9ETCIROUNS-93" value="获取人员信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D7F792;" vertex="1" parent="1">
+        <mxCell id="CuO03zdZ_H9ETCIROUNS-93" value="获取销售人员信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D7F792;" vertex="1" parent="1">
           <mxGeometry x="160" y="1270" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CuO03zdZ_H9ETCIROUNS-94" value="获取组信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D7F792;" vertex="1" parent="1">
