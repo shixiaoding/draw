@@ -74,7 +74,7 @@
           <mxGeometry x="160" y="1050" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sNWVwF46tpGVJdv4zzlN-7" value="创建-预算池" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
-          <mxGeometry x="120" y="1820" width="110" height="40" as="geometry" />
+          <mxGeometry x="160" y="1824" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sNWVwF46tpGVJdv4zzlN-8" value="passport" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA97BC;" parent="1" vertex="1">
           <mxGeometry x="640" y="240" width="110" height="40" as="geometry" />
@@ -86,16 +86,16 @@
           <mxGeometry x="640" y="320" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sNWVwF46tpGVJdv4zzlN-10" value="指派-B端申请门店" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
-          <mxGeometry x="120" y="1750" width="110" height="40" as="geometry" />
+          <mxGeometry x="160" y="1754" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sNWVwF46tpGVJdv4zzlN-11" value="配置-目标" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
-          <mxGeometry x="120" y="1900" width="110" height="40" as="geometry" />
+          <mxGeometry x="160" y="1904" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sNWVwF46tpGVJdv4zzlN-12" value="业绩分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
-          <mxGeometry x="120" y="1970" width="110" height="40" as="geometry" />
+          <mxGeometry x="160" y="1974" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CuO03zdZ_H9ETCIROUNS-1" value="查看-业绩" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
-          <mxGeometry x="120" y="2050" width="110" height="40" as="geometry" />
+          <mxGeometry x="160" y="2054" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CuO03zdZ_H9ETCIROUNS-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CuO03zdZ_H9ETCIROUNS-2" target="sNWVwF46tpGVJdv4zzlN-9">
           <mxGeometry relative="1" as="geometry" />
