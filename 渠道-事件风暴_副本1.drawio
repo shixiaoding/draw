@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.9">
   <diagram name="第 1 页" id="7w6zi9jCp_np2msTW12s">
-    <mxGraphModel dx="1241" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1310" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="140" y="290" width="450" height="290" as="geometry" />
         </mxCell>
         <mxCell id="sU835gR6TyCPR4Zn5wwY-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="140" y="1099" width="480" height="281" as="geometry" />
+          <mxGeometry x="140" y="1090" width="480" height="281" as="geometry" />
         </mxCell>
         <mxCell id="_sHUTvcMdDTdJ8EnGrEK-1" value="&lt;div&gt;&lt;font&gt;command&lt;/font&gt;&lt;/div&gt;&lt;font&gt;决策命令&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
           <mxGeometry x="160" y="80" width="110" height="40" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sNWVwF46tpGVJdv4zzlN-6" value="增加-销售人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1169" width="110" height="40" as="geometry" />
+          <mxGeometry x="160" y="1160" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sNWVwF46tpGVJdv4zzlN-7" value="创建-预算池" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
           <mxGeometry x="180" y="1770" width="110" height="40" as="geometry" />
@@ -187,50 +187,52 @@
         <mxCell id="CuO03zdZ_H9ETCIROUNS-40" value="区域已绑定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFAA60;" parent="1" vertex="1">
           <mxGeometry x="306" y="700" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="krUybGp2ORGPFsP9SGWh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CuO03zdZ_H9ETCIROUNS-45" target="CuO03zdZ_H9ETCIROUNS-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CuO03zdZ_H9ETCIROUNS-45" value="调整-人员与门店关系信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
           <mxGeometry x="640" y="980" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CuO03zdZ_H9ETCIROUNS-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CuO03zdZ_H9ETCIROUNS-53" target="CuO03zdZ_H9ETCIROUNS-58" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="CuO03zdZ_H9ETCIROUNS-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CuO03zdZ_H9ETCIROUNS-53" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="495" y="700" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CuO03zdZ_H9ETCIROUNS-53" value="组与区域关系已解绑" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFAA60;" parent="1" vertex="1">
           <mxGeometry x="440" y="600" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CuO03zdZ_H9ETCIROUNS-58" value="人员与门店关系已解绑" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFAA60;" parent="1" vertex="1">
-          <mxGeometry x="440" y="700" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CuO03zdZ_H9ETCIROUNS-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CuO03zdZ_H9ETCIROUNS-62" target="CuO03zdZ_H9ETCIROUNS-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CuO03zdZ_H9ETCIROUNS-62" value="业务规则验证" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B68BBF;" parent="1" vertex="1">
-          <mxGeometry x="310" y="1169" width="110" height="40" as="geometry" />
+          <mxGeometry x="310" y="1160" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="krUybGp2ORGPFsP9SGWh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CuO03zdZ_H9ETCIROUNS-63" target="CuO03zdZ_H9ETCIROUNS-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CuO03zdZ_H9ETCIROUNS-63" value="调整-人员与门店关系信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
-          <mxGeometry x="640" y="1309" width="110" height="40" as="geometry" />
+          <mxGeometry x="640" y="1300" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CuO03zdZ_H9ETCIROUNS-64" value="组与人员关系已绑定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFAA60;" parent="1" vertex="1">
-          <mxGeometry x="640" y="1169" width="110" height="40" as="geometry" />
+          <mxGeometry x="640" y="1160" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CuO03zdZ_H9ETCIROUNS-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CuO03zdZ_H9ETCIROUNS-66" target="CuO03zdZ_H9ETCIROUNS-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CuO03zdZ_H9ETCIROUNS-66" value="编辑-销售人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1239" width="110" height="40" as="geometry" />
+          <mxGeometry x="160" y="1230" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CuO03zdZ_H9ETCIROUNS-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CuO03zdZ_H9ETCIROUNS-69" target="CuO03zdZ_H9ETCIROUNS-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CuO03zdZ_H9ETCIROUNS-69" value="业务规则验证" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B68BBF;" parent="1" vertex="1">
-          <mxGeometry x="310" y="1239" width="110" height="40" as="geometry" />
+          <mxGeometry x="310" y="1230" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CuO03zdZ_H9ETCIROUNS-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CuO03zdZ_H9ETCIROUNS-70" target="CuO03zdZ_H9ETCIROUNS-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CuO03zdZ_H9ETCIROUNS-70" value="组与人员关系修改" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFAA60;" parent="1" vertex="1">
-          <mxGeometry x="640" y="1239" width="110" height="40" as="geometry" />
+          <mxGeometry x="640" y="1230" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CuO03zdZ_H9ETCIROUNS-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CuO03zdZ_H9ETCIROUNS-81" target="CuO03zdZ_H9ETCIROUNS-84" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -241,8 +243,10 @@
         <mxCell id="CuO03zdZ_H9ETCIROUNS-81" value="修改-组与区域关系(解绑)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
           <mxGeometry x="640" y="600" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CuO03zdZ_H9ETCIROUNS-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CuO03zdZ_H9ETCIROUNS-84" target="CuO03zdZ_H9ETCIROUNS-58" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="CuO03zdZ_H9ETCIROUNS-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CuO03zdZ_H9ETCIROUNS-84" target="CuO03zdZ_H9ETCIROUNS-119" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="720" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CuO03zdZ_H9ETCIROUNS-84" value="修改-人员与门店关系信息&lt;div&gt;（解绑）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
           <mxGeometry x="640" y="700" width="110" height="40" as="geometry" />
@@ -269,16 +273,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CuO03zdZ_H9ETCIROUNS-116" value="指派\解绑-销售人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1309" width="110" height="40" as="geometry" />
+          <mxGeometry x="160" y="1300" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CuO03zdZ_H9ETCIROUNS-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CuO03zdZ_H9ETCIROUNS-117" target="CuO03zdZ_H9ETCIROUNS-119" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CuO03zdZ_H9ETCIROUNS-117" value="业务规则验证" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B68BBF;" parent="1" vertex="1">
-          <mxGeometry x="310" y="1309" width="110" height="40" as="geometry" />
+          <mxGeometry x="310" y="1300" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CuO03zdZ_H9ETCIROUNS-119" value="人员与门店关系-已调整" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFAA60;" parent="1" vertex="1">
-          <mxGeometry x="470" y="1309" width="110" height="40" as="geometry" />
+          <mxGeometry x="470" y="1300" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CuO03zdZ_H9ETCIROUNS-122" value="分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" parent="1" vertex="1">
           <mxGeometry x="180" y="2040" width="110" height="40" as="geometry" />
@@ -286,8 +290,8 @@
         <mxCell id="CuO03zdZ_H9ETCIROUNS-123" value="运营" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="1660" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sU835gR6TyCPR4Zn5wwY-2" value="人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE270;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1110" width="110" height="40" as="geometry" />
+        <mxCell id="sU835gR6TyCPR4Zn5wwY-2" value="销售人员关系" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE270;" parent="1" vertex="1">
+          <mxGeometry x="160" y="1101" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
