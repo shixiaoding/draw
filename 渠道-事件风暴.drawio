@@ -782,7 +782,12 @@
           <mxGeometry x="335" y="3336" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZF4ea1G8mvOfIL1GF-1r-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZF4ea1G8mvOfIL1GF-1r-14" target="ZF4ea1G8mvOfIL1GF-1r-16">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="4070" />
+              <mxPoint x="560" y="4010" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZF4ea1G8mvOfIL1GF-1r-14" value="包裹-已送达" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFAA60;" vertex="1" parent="1">
           <mxGeometry x="357" y="4050" width="110" height="40" as="geometry" />
