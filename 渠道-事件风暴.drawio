@@ -212,7 +212,7 @@
           <mxGeometry x="-90" y="60" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CuO03zdZ_H9ETCIROUNS-97" value="渠道组织架构管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE270;" parent="1" vertex="1">
-          <mxGeometry x="160" y="220" width="110" height="40" as="geometry" />
+          <mxGeometry x="156" y="230" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CuO03zdZ_H9ETCIROUNS-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="CuO03zdZ_H9ETCIROUNS-116" target="CuO03zdZ_H9ETCIROUNS-117" edge="1">
           <mxGeometry relative="1" as="geometry" />
