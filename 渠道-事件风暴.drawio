@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZF4ea1G8mvOfIL1GF-1r-125" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DEDEDE;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="684.5" y="4220" width="213" height="360" as="geometry" />
+        </mxCell>
         <mxCell id="ZF4ea1G8mvOfIL1GF-1r-112" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DEDEDE;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="693" y="3970" width="213" height="170" as="geometry" />
         </mxCell>
@@ -801,17 +804,32 @@
         <mxCell id="ZF4ea1G8mvOfIL1GF-1r-20" value="记录-已写入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFAA60;" vertex="1" parent="1">
           <mxGeometry x="736.5" y="4070" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ZF4ea1G8mvOfIL1GF-1r-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZF4ea1G8mvOfIL1GF-1r-25" target="ZF4ea1G8mvOfIL1GF-1r-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZF4ea1G8mvOfIL1GF-1r-25" value="售后单-已创建" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFAA60;" vertex="1" parent="1">
           <mxGeometry x="396.75" y="4240" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZF4ea1G8mvOfIL1GF-1r-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZF4ea1G8mvOfIL1GF-1r-26" target="ZF4ea1G8mvOfIL1GF-1r-129">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZF4ea1G8mvOfIL1GF-1r-26" value="售后单-客户已发货" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFAA60;" vertex="1" parent="1">
           <mxGeometry x="396.75" y="4310" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ZF4ea1G8mvOfIL1GF-1r-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZF4ea1G8mvOfIL1GF-1r-27" target="ZF4ea1G8mvOfIL1GF-1r-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZF4ea1G8mvOfIL1GF-1r-27" value="售后单-仓库已验货" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFAA60;" vertex="1" parent="1">
           <mxGeometry x="398" y="4380" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ZF4ea1G8mvOfIL1GF-1r-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZF4ea1G8mvOfIL1GF-1r-28" target="ZF4ea1G8mvOfIL1GF-1r-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZF4ea1G8mvOfIL1GF-1r-28" value="售后单-已维修" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFAA60;" vertex="1" parent="1">
           <mxGeometry x="398" y="4452.5" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZF4ea1G8mvOfIL1GF-1r-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZF4ea1G8mvOfIL1GF-1r-29" target="ZF4ea1G8mvOfIL1GF-1r-129">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZF4ea1G8mvOfIL1GF-1r-29" value="售后单-出仓" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFAA60;" vertex="1" parent="1">
           <mxGeometry x="398" y="4520" width="110" height="40" as="geometry" />
@@ -893,6 +911,24 @@
         </mxCell>
         <mxCell id="ZF4ea1G8mvOfIL1GF-1r-113" value="TMS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA97BC;" vertex="1" parent="1">
           <mxGeometry x="736" y="3920" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZF4ea1G8mvOfIL1GF-1r-126" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DEDEDE;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="953" y="4220" width="213" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="ZF4ea1G8mvOfIL1GF-1r-127" value="TMS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA97BC;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="4160" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZF4ea1G8mvOfIL1GF-1r-128" value="售后单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA97BC;" vertex="1" parent="1">
+          <mxGeometry x="736" y="4170" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZF4ea1G8mvOfIL1GF-1r-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZF4ea1G8mvOfIL1GF-1r-129" target="ZF4ea1G8mvOfIL1GF-1r-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZF4ea1G8mvOfIL1GF-1r-129" value="更新-售后单状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
+          <mxGeometry x="736" y="4350" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZF4ea1G8mvOfIL1GF-1r-131" value="更新-包裹状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
+          <mxGeometry x="1004.5" y="4350" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
