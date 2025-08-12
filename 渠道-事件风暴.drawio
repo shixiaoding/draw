@@ -815,7 +815,7 @@
           <mxGeometry x="167" y="2240" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZF4ea1G8mvOfIL1GF-1r-31" value="CC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA97BC;" vertex="1" parent="1">
-          <mxGeometry x="767" y="2240" width="110" height="40" as="geometry" />
+          <mxGeometry x="752" y="2240" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZF4ea1G8mvOfIL1GF-1r-45" value="用户-增加规则商品" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26C0E5;" vertex="1" parent="1">
           <mxGeometry x="723" y="3136" width="110" height="40" as="geometry" />
