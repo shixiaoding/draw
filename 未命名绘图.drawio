@@ -172,7 +172,7 @@
           <mxGeometry x="147" y="870" width="53" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LwIIjkbttN6UYG1uhB5L-82" value="" style="group;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="610" y="560" width="199" height="150" as="geometry" />
+          <mxGeometry x="640" y="560" width="199" height="150" as="geometry" />
         </mxCell>
         <mxCell id="LwIIjkbttN6UYG1uhB5L-83" value="技术平台-用户权限管理" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;strokeColor=#171309;verticalAlign=top;dashed=1;pointerEvents=0;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;gradientColor=none;" vertex="1" parent="LwIIjkbttN6UYG1uhB5L-82">
           <mxGeometry width="199" height="150" as="geometry" />
