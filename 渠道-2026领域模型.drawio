@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.2">
+  <diagram name="第 1 页" id="ZdOLl3R-s7hpOz56ZZy2">
+    <mxGraphModel dx="1188" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SGVAHPqg7ZOz0K4gdy8H-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="540" width="850" x="200" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SGVAHPqg7ZOz0K4gdy8H-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="门店" vertex="1">
+          <mxGeometry height="60" width="90" x="340" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="SGVAHPqg7ZOz0K4gdy8H-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="业绩" vertex="1">
+          <mxGeometry height="60" width="90" x="369" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="SGVAHPqg7ZOz0K4gdy8H-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="销售组织关系" vertex="1">
+          <mxGeometry height="60" width="90" x="260" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="SGVAHPqg7ZOz0K4gdy8H-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="销售过程" vertex="1">
+          <mxGeometry height="60" width="90" x="450" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="SGVAHPqg7ZOz0K4gdy8H-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="企拍商管理" vertex="1">
+          <mxGeometry height="60" width="90" x="279" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="SGVAHPqg7ZOz0K4gdy8H-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="履约" vertex="1">
+          <mxGeometry height="60" width="90" x="390" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="SGVAHPqg7ZOz0K4gdy8H-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="售后" vertex="1">
+          <mxGeometry height="60" width="90" x="500" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="SGVAHPqg7ZOz0K4gdy8H-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="单据" vertex="1">
+          <mxGeometry height="60" width="90" x="390" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="SGVAHPqg7ZOz0K4gdy8H-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="地址库" vertex="1">
+          <mxGeometry height="60" width="90" x="810" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="SGVAHPqg7ZOz0K4gdy8H-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="标签" vertex="1">
+          <mxGeometry height="60" width="90" x="800" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="SGVAHPqg7ZOz0K4gdy8H-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="标签" vertex="1">
+          <mxGeometry height="60" width="90" x="850" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="SGVAHPqg7ZOz0K4gdy8H-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="用户" vertex="1">
+          <mxGeometry height="60" width="90" x="910" y="260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
