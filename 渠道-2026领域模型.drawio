@@ -37,7 +37,7 @@
         <mxCell id="SGVAHPqg7ZOz0K4gdy8H-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="标签" vertex="1">
           <mxGeometry height="60" width="90" x="720" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="ls2qX-q9K_fUEt9UDaLw-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="营销" vertex="1">
+        <mxCell id="ls2qX-q9K_fUEt9UDaLw-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="营销协同" vertex="1">
           <mxGeometry height="60" width="90" x="470" y="490" as="geometry" />
         </mxCell>
         <mxCell id="ls2qX-q9K_fUEt9UDaLw-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-30;" value="核心域" vertex="1">
