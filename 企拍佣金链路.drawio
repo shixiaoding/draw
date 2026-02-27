@@ -1,0 +1,136 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.5.6">
+  <diagram name="第 1 页" id="8Y-NmPJbHfZdDZ7I-0xU">
+    <mxGraphModel dx="1427" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-54" edge="1" parent="1" source="Anu2BAmuDx0ejVdMvyua-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Anu2BAmuDx0ejVdMvyua-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1270" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="大数据&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="230" x="1150" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-28" edge="1" parent="1" source="Anu2BAmuDx0ejVdMvyua-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="Anu2BAmuDx0ejVdMvyua-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-29" connectable="0" parent="Anu2BAmuDx0ejVdMvyua-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="获取佣金明细" vertex="1">
+          <mxGeometry relative="1" x="-0.02" y="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="佣金服务" vertex="1">
+          <mxGeometry height="150" width="240" x="150" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-26" edge="1" parent="1" source="Anu2BAmuDx0ejVdMvyua-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Anu2BAmuDx0ejVdMvyua-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-27" connectable="0" parent="Anu2BAmuDx0ejVdMvyua-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="获取佣金明细，生成账单" vertex="1">
+          <mxGeometry relative="1" x="-0.0727" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="RP" vertex="1">
+          <mxGeometry height="170" width="240" x="150" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="规则配置" vertex="1">
+          <mxGeometry height="40" width="90" x="170" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="佣金率生效" vertex="1">
+          <mxGeometry height="40" width="90" x="280" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="佣金明细中转" vertex="1">
+          <mxGeometry height="40" width="90" x="170" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="佣金明细同步" vertex="1">
+          <mxGeometry height="40" width="90" x="170" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="生成应付单" vertex="1">
+          <mxGeometry height="40" width="90" x="280" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="生成结算单" vertex="1">
+          <mxGeometry height="40" width="90" x="170" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="结算单结算流程" vertex="1">
+          <mxGeometry height="40" width="90" x="280" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-30" edge="1" parent="1" source="Anu2BAmuDx0ejVdMvyua-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Anu2BAmuDx0ejVdMvyua-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-50" connectable="0" parent="Anu2BAmuDx0ejVdMvyua-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="获取明细" vertex="1">
+          <mxGeometry relative="1" x="0.24" y="-1" as="geometry">
+            <mxPoint x="12" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="大数据&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="230" x="490" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="拉取佣金率" vertex="1">
+          <mxGeometry height="40" width="80" x="510" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="佣金明细计算" vertex="1">
+          <mxGeometry height="40" width="80" x="620" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="规则查询" vertex="1">
+          <mxGeometry height="40" width="90" x="280" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-32" edge="1" parent="1" source="Anu2BAmuDx0ejVdMvyua-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="Anu2BAmuDx0ejVdMvyua-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-33" connectable="0" parent="Anu2BAmuDx0ejVdMvyua-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="获取佣金明细" vertex="1">
+          <mxGeometry relative="1" x="-0.02" y="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="佣金服务&amp;nbsp;" vertex="1">
+          <mxGeometry height="150" width="240" x="810" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="RP" vertex="1">
+          <mxGeometry height="100" width="230" x="815" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="规则配置" vertex="1">
+          <mxGeometry height="40" width="90" x="830" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="佣金规则生效" vertex="1">
+          <mxGeometry height="40" width="90" x="940" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="生成应付单" vertex="1">
+          <mxGeometry height="40" width="80" x="1170" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="生成结算单" vertex="1">
+          <mxGeometry height="40" width="80" x="1280" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="结算单结算流程" vertex="1">
+          <mxGeometry height="40" width="90" x="945" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="拉取佣金率" vertex="1">
+          <mxGeometry height="40" width="80" x="1170" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="佣金明细计算" vertex="1">
+          <mxGeometry height="40" width="80" x="1280" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="规则查询" vertex="1">
+          <mxGeometry height="40" width="90" x="832" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="查询账单" vertex="1">
+          <mxGeometry height="40" width="90" x="832" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF9933;" value="配置规则" vertex="1">
+          <mxGeometry height="30" width="60" x="895" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF9933;" value="计算佣金，生成单据" vertex="1">
+          <mxGeometry height="20" width="115" x="1230" y="65" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="同步，单据" vertex="1">
+          <mxGeometry height="30" width="100" x="1130" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Anu2BAmuDx0ejVdMvyua-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF9933;" value="结算单结算流程" vertex="1">
+          <mxGeometry height="30" width="100" x="890" y="260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
