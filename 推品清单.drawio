@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.5.6">
   <diagram name="第 1 页" id="9cvpqZ6VPPmCDh2B7ji_">
-    <mxGraphModel>
+    <mxGraphModel dx="1427" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cduWBamG5LkNlEX3luuT-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="H5" vertex="1">
+          <mxGeometry height="30" width="90" x="200" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="cduWBamG5LkNlEX3luuT-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="APP" vertex="1">
+          <mxGeometry height="30" width="90" x="300" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="cduWBamG5LkNlEX3luuT-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="crm-mobile&lt;br&gt;渠道移动端服务" vertex="1">
+          <mxGeometry height="40" width="130" x="240" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="cduWBamG5LkNlEX3luuT-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CC&lt;div&gt;用户服务&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="70" x="190" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="cduWBamG5LkNlEX3luuT-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="数据埋点" vertex="1">
+          <mxGeometry height="30" width="90" x="460" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="cduWBamG5LkNlEX3luuT-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="quickBI分析报表" vertex="1">
+          <mxGeometry height="40" width="90" x="460" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="cduWBamG5LkNlEX3luuT-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="recommended-goods&lt;div&gt;用户服务&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="280" y="470" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
